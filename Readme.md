@@ -1,6 +1,7 @@
 # Environmental Sensor Data Analyzer
 
-A Python-based tool for loading, processing, analyzing, and visualizing environmental sensor data. This project provides comprehensive functionality for working with various environmental sensor measurements such as temperature, humidity, air quality, and more.
+A Python-based tool for loading, processing, analyzing, and visualizing environmental sensor data.
+This project provides comprehensive functionality for working with various environmental sensor measurements such as temperature, humidity, air quality, and more.
 
 ## Features
 
